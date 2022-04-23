@@ -1,2 +1,2 @@
 # springcloud
-this repo contains different services that manages product and stock service
+Repository for the spring cloud training
